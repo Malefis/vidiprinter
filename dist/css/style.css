@@ -1,0 +1,3 @@
+body{font-family:'Roboto',sans-serif}a{text-decoration:none}.card{padding:5px;border:.5px solid #e6e6e6;border-radius:10px;margin:5px 5px 5px 5px;background-image:linear-gradient(to bottom right,#FFF,#e6e6e6);box-shadow:0 1.5rem 4rem rgba(0,0,0,0.15);transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s, -webkit-transform .3s}
+.card:hover{-webkit-transform:translateY(3px) scale(1.01);transform:translateY(3px) scale(1.01)}
+/*# sourceMappingURL=maps/style.css.map */

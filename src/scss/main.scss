@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    padding: 5px;
+    border: 0.5px solid darken(#FFF, 10);
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    background-image: linear-gradient(to bottom right,#FFF, darken(#FFF ,10));
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+    transition: transform .3s;
+    &:hover{
+        transform: translateY(3px) scale(1.01)
+    }
+}
