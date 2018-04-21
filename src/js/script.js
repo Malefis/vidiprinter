@@ -1,4 +1,4 @@
-const url = "https://www.footballwebpages.co.uk/vidiprinter.json?comp=3&date=20180417";
+const url = "https://www.footballwebpages.co.uk/vidiprinter.json?comp=3";
 const outputDiv = document.getElementById('output');
 
 function getData(){
